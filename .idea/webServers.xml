@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c079c23d-0085-4288-979d-8323f8a032c0" name="UIFWK" url="http://huzentech.com">
+        <fileTransfer host="huzentech.com" port="21" rootFolder="/wwwhome/UIFWK" password="dfd9dfc2dfc3dfc4dfcfdfd9df9b" username="selmakim">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
